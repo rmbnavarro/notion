@@ -1,1 +1,3 @@
-name: my sitetheme: midnight
+theme: jekyll-theme-midnight
+title: my site
+theme: midnight
